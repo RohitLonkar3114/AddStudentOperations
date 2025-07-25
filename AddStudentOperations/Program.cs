@@ -10,6 +10,7 @@ namespace AddStudentOperations
     {
         void AddStudent()
         {
+            int a, b, d;
             Console.WriteLine("Student Added Successfully");
         }
         static void Main(string[] args)
